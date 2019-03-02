@@ -1,7 +1,7 @@
 class Proxy < Formula
     desc "A command line tool to configure CNTLM proxy configuration"
     homepage "https://github.com/xUnholy/go-proxy"
-    url "https://github.com/xUnholy/go-proxy/releases/download/v0.0.1/darwin-proxy.tar.gz"
+    url "https://github.com/xUnholy/go-proxy/releases/download/v0.1.0/darwin-proxy.tar.gz"
     sha256 "22af67ab52cac36ce35f20eff831e8c17e0c83fde900179b9e1aa99a86994888"
     version "0.1.0"
   
